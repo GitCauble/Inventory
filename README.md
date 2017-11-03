@@ -1,7 +1,8 @@
-# Inventory
+# Assignemnt 8 Inventory Application
 
-# Ryan Cauble
+# Student name: Ryan Cauble
 
+# ID: 00267379
 
 
 ![screenshot_1](https://user-images.githubusercontent.com/17748575/32379507-1986bb4e-c084-11e7-862b-232e932a0f66.png)
