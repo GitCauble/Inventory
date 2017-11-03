@@ -1,4 +1,4 @@
-# Assignemnt 8 Inventory Application
+# Assignment 8 Inventory Application
 
 # Student name: Ryan Cauble
 
